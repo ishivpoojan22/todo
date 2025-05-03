@@ -33,5 +33,5 @@ app.get("/api", (req, res) => {
 });
 
 app.get("/apis", (req, res) => {
-  res.send("shi chal rha ");
+  res.send("shi chal rhai");
 });
