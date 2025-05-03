@@ -31,3 +31,7 @@ app.get("/", (req, res) => {
 app.get("/api", (req, res) => {
   res.send("this is api page");
 });
+
+app.get("/apis", (req, res) => {
+  res.send("shi chal rha ");
+});
